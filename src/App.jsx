@@ -182,7 +182,7 @@ const App = () => {
       <div className="landing">
         <h1>Welcome to GatorDAO</h1>
         <button onClick={() => connectWallet("injected")} className="btn-hero">
-          Connect your wallet
+          Connect your wallet!!
         </button>
       </div>
     );
